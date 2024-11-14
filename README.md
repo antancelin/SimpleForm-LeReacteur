@@ -1,6 +1,6 @@
 # Simple Form
 
-Site déployé ➡️ [Simple Form](antancelin-simple-form.netlify.app)
+Site déployé ➡️ [Simple Form](https://antancelin-simple-form.netlify.app)
 
 Dans cet exercice, vous allez apprendre à réaliser un formulaire d'inscription simple.
 
